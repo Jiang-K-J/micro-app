@@ -1,6 +1,6 @@
 # qiankun、wujie微前端框架演示
 
-该仓库展示了[qiankun](https://qiankun.umijs.org/zh)、[wujie](https://wujie-micro.github.io/doc/)微前端使用示例。基本包括了微前端所有可能会用到的技术点，如应用通信、跳转、样式隔离及应用共存等
+该仓库展示了[qiankun](https://qiankun.umijs.org/zh)、[wujie](https://wujie-micro.github.io/doc/)微前端使用示例。基本包括了微前端所有可能会用到的技术点，如应用通信、跳转、样式隔离及应用共存等（如果觉得有帮到您，请帮忙点个小星星）
 
 **线上地址：**
 
