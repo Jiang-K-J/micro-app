@@ -1,0 +1,23 @@
+.ant-layout {
+  height: 100%;
+}
+
+.page-logo {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  margin-left: 26px;
+}
+
+.ant-layout-sider-children {
+  text-align: center;
+}
+
+html {
+  height: 98%;
+  width: 98%;
+}
+
+#root {
+  height: 100%;
+}
