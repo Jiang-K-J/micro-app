@@ -80,7 +80,7 @@ function App() {
     <Layout>
       {contextHolder}
       <Sider collapsedWidth="0">
-        <p class="page-logo">QIANKUN-DEMO</p>
+        <p className="page-logo">QIANKUN-DEMO</p>
         <Menu
           theme="dark"
           mode="inline"
