@@ -31,7 +31,7 @@ const childrenClick = () => {
     vueInfo: "我是 vue3 子应用，我给react子应用发信息",
   });
   ElMessage({
-    message: '传递成功，快去子应用看看吧',
+    message: '传递成功，快去react子应用看看吧',
     type: 'success',
   })
 };  
